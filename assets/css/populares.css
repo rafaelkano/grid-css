@@ -1,0 +1,9 @@
+.populares {
+    padding: 3rem 0;
+}
+.populares__card {
+    display: grid;
+    grid-template-areas:
+        "card-imagem"
+        "card-corpo";
+}
